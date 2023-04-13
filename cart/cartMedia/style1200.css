@@ -1,0 +1,15 @@
+@media (max-width: 1200px) {
+    .wrapper {
+        width: 70%;
+    }
+    .order {
+        display: flex;
+        justify-content: space-between;
+    }
+    .mOrderOptions {
+        display: block;
+    }
+    .OrderOptions {
+        display: none;
+    }
+}
